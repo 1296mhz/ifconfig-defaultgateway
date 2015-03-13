@@ -1,6 +1,6 @@
 # ifconfig-defaultgateway
 
-ifconfig-defaultgateway is a node.js library to parse ifconfig and get the default gateaway on a linux machine.
+ifconfig-defaultgateway is a node.js library to parse ifconfig and get the default gateway on a linux machine.
 
 Currently only tested on Debian (Raspberry Pi)
 
