@@ -1,7 +1,7 @@
 {
   "name": "ifconfig-defaultgateway",
   "description": "ifconfig-defaultgateway is a node.js library to parse ifconfig and get the default gateaway on a linux machine",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "Sam Decrock",
     "url": "https://github.com/SamDecrock/"
